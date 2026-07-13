@@ -1,6 +1,6 @@
 # BlueWave Project 🌊
 
-Welcome to the **BlueWave** project! This is a complete Web Application divided into three main components. This guide is written in a simple way so that anyone, even those without advanced programming knowledge, can understand how the project works and how to run it.
+Welcome to the **BlueWave** project! This is a complete Web Application divided into three main components. This guide is written in a simple way so that anyone,  can understand how the project works and how to run it.
 
 ---
 
